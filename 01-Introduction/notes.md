@@ -1,11 +1,12 @@
 ## Section 1 Course Introduction
 
-- **Course**: Functional Progeamming in JavaScript: A Practical Approach
+- **Course**: [Functional Progeamming in JavaScript: A Practical Approach](https://www.udemy.com/share/101VoKBUMZeFhWQHQ=/)
 - **Instructor**: Steven Hancock
 - [All Things JavaScript](http://www.allthingsjavascript.com/courses.html)
 
+---
 
-### Main Concept
+### Main Concepts
 - Side Effects
 - Shared State
 - Avoiding mutable data
@@ -13,6 +14,7 @@
 - Imperative programming vs. declarative programming
 - JavaScript libraries
 
+---
 
 ### Making the Most of this Course
 - In order to get the most out of this course, I recommend that you take advantage of the following:
