@@ -10,7 +10,7 @@
 
 by Eric Elliott
 
-### Functional Programming Conenpts
+### Functional Programming Concepts
 
 - Avoid Side Effects
 - Avoid Mutations
