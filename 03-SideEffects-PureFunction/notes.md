@@ -99,7 +99,7 @@ console.log(result); // 54
 
 ### What are Pure Functions?
 
-- The function depends on the input provided and not on extenrnal data that changes.
+- The function depends on the input provided and not on external data that changes.
 - The function doesn't cause side effects. It doesn't cause change beyond its scope.
 - Given the same input, the funciton will always return the same output.
 
