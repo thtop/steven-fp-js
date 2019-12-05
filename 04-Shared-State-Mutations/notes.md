@@ -6,7 +6,9 @@
 
 > A JavaScript program stores data in variables and objects. The contents of these storage locations at any given moment while the program is running is considered its state.
 
-> Shared state is any variable, object, or memory space that exists in a shared scope, or as the property of an object being passed between scopes. A shared scope can include global scope or closure scopes.
+### Shared State
+
+> **Shared state** is any variable, object, or memory space that exists in a shared scope, or as the property of an object being passed between scopes. A shared scope can include global scope or closure scopes.
 
 **by Eric Elliott**
 
