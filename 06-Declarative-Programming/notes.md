@@ -24,7 +24,7 @@ return result;
 // Declarative programming
 return fns.reduce(function(v, f) {
   return f(v);
-});
+}, x);
 ```
 
 ### Exercise on Declarative Programming Start
